@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-    const url = "https://pastefy.app/pifvNjcY/raw";
+    const url = "https://api.rubis.app/v2/scrap/72t1a3EyVNnuiGdo/raw";
 
     try {
         const response = await fetch(url);
