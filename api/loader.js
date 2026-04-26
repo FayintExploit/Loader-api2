@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-    const url = "https://pastefy.app/rqGeYd6F/raw";
+    const url = "https://pastefy.app/pifvNjcY/raw";
 
     try {
         const response = await fetch(url);
